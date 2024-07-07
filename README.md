@@ -23,6 +23,10 @@ A curated list of resources about model evolution.
 
 [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 
+[StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback](https://arxiv.org/abs/2402.01391)
+
+[Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
+
 
 ### Gaming
 [The Consensus Game: Language Model Generation via Equilibrium Search](https://arxiv.org/abs/2310.09139)
