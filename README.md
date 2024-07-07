@@ -21,6 +21,8 @@ A curated list of resources about model evolution.
 
 [A Survey on Self-Evolution of Large Language Models](https://arxiv.org/abs/2404.14387)
 
+[Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
+
 
 ### Gaming
 [The Consensus Game: Language Model Generation via Equilibrium Search](https://arxiv.org/abs/2310.09139)
