@@ -27,6 +27,8 @@ A curated list of resources about model evolution.
 
 [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 
+[RLCD: Reinforcement Learning from Contrastive Distillation for Language Model Alignment](https://arxiv.org/abs/2307.12950)
+
 
 ### Gaming
 [The Consensus Game: Language Model Generation via Equilibrium Search](https://arxiv.org/abs/2310.09139)
