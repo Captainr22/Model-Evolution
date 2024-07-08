@@ -29,6 +29,8 @@ A curated list of resources about model evolution.
 
 [RLCD: Reinforcement Learning from Contrastive Distillation for Language Model Alignment](https://arxiv.org/abs/2307.12950)
 
+[Reflection-Reinforced Self-Training for Language Agents](https://arxiv.org/abs/2406.01495)
+
 
 ### Gaming
 [The Consensus Game: Language Model Generation via Equilibrium Search](https://arxiv.org/abs/2310.09139)
