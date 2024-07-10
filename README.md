@@ -31,7 +31,7 @@ A curated list of resources about model evolution.
 
 [Reflection-Reinforced Self-Training for Language Agents](https://arxiv.org/abs/2406.01495)
 
-[WizardLM: Empowering large pre-trained language models to follow complex instructions. In: The Twelfth International Conference on Learning Representations] (https://arxiv.org/abs/2304.12244)
+[WizardLM: Empowering large pre-trained language models to follow complex instructions. In: The Twelfth International Conference on Learning Representations](https://arxiv.org/abs/2304.12244)
 
 
 ### Gaming
