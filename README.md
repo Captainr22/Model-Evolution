@@ -33,6 +33,9 @@ A curated list of resources about model evolution.
 
 [WizardLM: Empowering large pre-trained language models to follow complex instructions. In: The Twelfth International Conference on Learning Representations](https://arxiv.org/abs/2304.12244)
 
+[Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models](https://arxiv.org/abs/2406.11736)
+
+[Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://arxiv.org/abs/2406.13542)
 
 ### Gaming
 [The Consensus Game: Language Model Generation via Equilibrium Search](https://arxiv.org/abs/2310.09139)
